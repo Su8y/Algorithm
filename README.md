@@ -7,9 +7,11 @@
 ## 그래프탐색 (DFS,BFS) Graph Traverse
 - death first search
     2668
+    dddddd∂∂∂d∂∂∂dddd
 - breath first search O(V + E) O(V)
     * 2667
 - unionfind
   - unionfindalgorithm
 ## 구현 
 - 2669
+## 유클리드 호제법 최대 공약수 찾는 알고리즘
