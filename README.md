@@ -7,11 +7,14 @@
 ## 그래프탐색 (DFS,BFS) Graph Traverse
 - death first search
     2668
-    dddddd∂∂∂d∂∂∂dddd
 - breath first search O(V + E) O(V)
     * 2667
 - unionfind
-  - unionfindalgorithm
+unionefind는 최장신장트리를 확인하는 알고리즘이다 사이클이 돌지않는 선에서 최소비용신장트리를 완성한다.
+
 ## 구현 
 - 2669
 ## 유클리드 호제법 최대 공약수 찾는 알고리즘
+## 문자열 
+- 9093 문자열 뒤집기
+- 9012 괄호매칭

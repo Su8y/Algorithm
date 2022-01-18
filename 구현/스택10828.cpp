@@ -1,8 +1,12 @@
 #include <iostream>
 #include <string.h>
 #include <stdlib.h>
+#include <queue>
+#include <stack>
+#include <vector>
 
 using namespace std;
+
 class Stack{
     public:
     int *arr;

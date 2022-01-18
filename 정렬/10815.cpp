@@ -66,7 +66,6 @@ void quicksort(int *arr1,int start,int end){
     }
     quicksort(arr1,start,right -1);
     quicksort(arr1,right+1,end);
-
 }
 //버블소트는 시간초과임. 500000 * 500000 = 50,000,000,000 > 5백억번에 수행으로 500초가 걸린다 .이럴때 N(logN)의 기법이 필요하다.
 void bubblesort(int *arr, int size){
