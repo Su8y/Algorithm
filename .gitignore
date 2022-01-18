@@ -1,2 +1,5 @@
 *.out
 *.dsYM
+*.bin
+.*
+!/.gitignore
