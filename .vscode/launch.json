@@ -10,8 +10,8 @@
                 "request": "launch",
                 // "program": "${fileDirname}/${fileBasenameNoExtension}",
                 "program": "${fileDirname}/a.out",
-                "console": "externalTerminal",
-                // "console": "integratedTerminal",
+                // "console": "externalTerminal",
+                "console": "integratedTerminal",
                 "args": ["-arg1", "-arg2"],
             }
         

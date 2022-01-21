@@ -34,7 +34,6 @@ void bfs(int start){
             }
         }
     }
-
 }
 int main(void)
 {
@@ -70,6 +69,6 @@ int main(void)
     graph[8].push_back(1);
     graph[8].push_back(7);
 
-    dfs(1);
-    // bfs(1);
+    // dfs(1);
+    bfs(1);
 }

@@ -2,22 +2,20 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <queue>
+#include <utility>
+#include <string>
 
 using namespace std;
 
-int solve(int){
-int answers;
-    
-    return answers;
-}
 
 int main(){
-int result;
     ios::sync_with_stdio(0);
     cin.tie(0);
     cout.tie(0);
-    //cout << "Hello World" << endl;
-    solve();
-    cout << result;
+    int n;
+    cin >> n;
+    cout << "Hello World" << endl;
+
     return 0;
 }
